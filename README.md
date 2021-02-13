@@ -1,16 +1,8 @@
-# product
+# About Project
+this app is e-commerce app demo for learning purpos with Provider State managment
 
-A new Flutter project.
 
-## Getting Started
+## Some Screenshots
+![photo_2021-02-13_17-45-47](https://user-images.githubusercontent.com/79010855/107854242-59891980-6e23-11eb-910e-8e4ec8f33985.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
